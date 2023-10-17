@@ -7,6 +7,8 @@ A class for working with length values. Supports the following units of measure:
 - Marine units (fathom, cable, nautical mile)
 - Astronomy (astronomical unit, light-year, parsec)
 
+Conversion between different families of units is also possible.
+
 ## Project Status
 
 No further development is planned, as this class is considered complete.
